@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sammith Gowda</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h1 align="">Hi 👋, I'm Sammith Gowda</h1>
+<h3 align="">A passionate MERN Stack developer from India</h3>
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,NODE,REACT**
 
