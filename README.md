@@ -1,6 +1,8 @@
 <h1 align="">Hi 👋, I'm Sammith Gowda</h1>
 <h3 align="">A passionate MERN Stack developer from India</h3>
 
+- 🔭 I’m currently Learning **MERN STACK 😎**
+
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,NODE,REACT**
 
 - 📫 How to reach me **hsammith@gmail.com**
@@ -9,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@sammith_gowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sammith_gowda" height="30" width="40" /></a>
+<a href="https://twitter.com/sammith_gowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sammith_gowda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/sammith-gowda-4a134119a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sammith-gowda-4a134119a" height="30" width="40" /></a>
 </p>
 
