@@ -21,3 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammithgowda&show_icons=true&locale=en&layout=compact" alt="sammithgowda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammithgowda&show_icons=true&locale=en" alt="sammithgowda" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SammithGowda)](https://git.io/streak-stats)
