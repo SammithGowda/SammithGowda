@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hsammith@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1HlQN7BlpUhhDNZ6YOi_t0V1PQcX1vlZT/view?usp=sharing">Resume</a> 
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Z2TAIgDi2s6HsS8byVSRa_JIy5myNEAp/view?usp=sharing">Resume</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
