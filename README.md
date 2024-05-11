@@ -1,9 +1,9 @@
 <h1 align="">Hi 👋, I'm Sammith Gowda</h1>
 <h3 align="">A passionate MERN Stack developer from India</h3>
 
-- 🔭 I’m currently Learning **MERN STACK 😎**
+- 🔭 I’m currently Working as a **MERN STACK Developer😎**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,NODE,REACT**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,NODE,REACT,ReactNative,Leflet,GIS**
 
 - 📫 How to reach me **hsammith@gmail.com**
 
